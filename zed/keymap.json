@@ -1,0 +1,10 @@
+[
+    {
+        "context": "Editor",
+        "bindings": {
+            "cmd-d": "editor::DeleteLine",
+            "cmd-shift-d": "editor::DuplicateLineDown",
+            "cmd-ctrl-g": "editor::SelectAllMatches"
+        }
+    }
+]
