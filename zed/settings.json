@@ -34,6 +34,11 @@
             "hard_tabs": true
         }
     },
+    "git": {
+        "inline_blame": {
+            "enabled": false
+        }
+    },
     "lsp": {
         "solargraph": {
             "initialization_options": {
