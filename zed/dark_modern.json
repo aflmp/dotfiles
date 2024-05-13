@@ -54,7 +54,7 @@
                 "scrollbar.thumb.border": null,
                 "scrollbar.track.background": "#1F1F1F",
                 "scrollbar.track.border": "#010409",
-                "editor.foreground": "#CCCCCC",
+                "editor.foreground": "#9CDCFE",
                 "editor.background": "#1F1F1F",
                 "editor.gutter.background": "#1F1F1F",
                 "editor.subheader.background": null,
@@ -187,6 +187,11 @@
                     },
                     "comment": {
                         "color": "#6A9955",
+                        "font_style": null,
+                        "font_weight": null
+                    },
+                    "operator": {
+                        "color": "#CCCCCC",
                         "font_style": null,
                         "font_weight": null
                     }
